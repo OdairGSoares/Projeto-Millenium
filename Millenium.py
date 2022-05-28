@@ -11,7 +11,7 @@ ativo = 'WINM22'
 
 lote = 1
 
-iniciar(55160350,"smc2Li6A",'XPMT5-DEMO',ativo)
+iniciar("login","senha",'servidor',ativo)
 
 while True:
 
